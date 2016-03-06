@@ -11,11 +11,8 @@
 
 
 
-<<<<<<< HEAD
-=======
 
 
->>>>>>> b27b0f6c62ba0f5769330dc46c0bfff07a1a4795
 	<repositories>
 		<repository>
 			<id>spring.test-mvc</id>
