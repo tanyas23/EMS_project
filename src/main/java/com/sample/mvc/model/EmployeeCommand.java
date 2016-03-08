@@ -42,6 +42,6 @@ public class EmployeeCommand {
 
 	public void setCity(String city) {
 		this.city = city;
-	}
+	} public void sosdlfd(String SDLFdfd) {}
 
 }
